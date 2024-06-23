@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+NZ:wght@100..400&display=swap');
+.d-block {
+    margin-top: 50px;
+    border-radius: 10px;
+    border: 1px solid grey;
+    margin-bottom: 50px;
+  }
+
+  .image-size {
+    height: 300px;
+  }
+  .fText{
+    font-family: "Playwrite NZ", cursive;
+ }
+
+.bottons{
+    width: 30px;
+}
+
+
+
+
+
+
+
+
