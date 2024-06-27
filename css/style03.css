@@ -1,0 +1,29 @@
+
+.image-resize{
+    height: 170px;
+    border-radius: 10px;
+}
+
+.book-name{
+    align-items: center;
+    margin-left: 20px;
+    font-size: medium;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.Container{
+    margin-top: 70px;
+}
+
+.drop-item{
+    margin-left: 20px; 
+    border-radius: 3px;
+    border-color: black ;
+    height: 100px;
+}
+ @media (max-width: 575.98px) { 
+    .book-name{
+        visibility: hidden;
+    }
+   
+
+ }
